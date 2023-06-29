@@ -6,7 +6,23 @@
     <description>Recent content on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 28 Jun 2023 17:44:18 +0800</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 29 Jun 2023 22:16:47 +0800</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>SecondArticle</title>
+      <link>/posts/secondarticle/</link>
+      <pubDate>Thu, 29 Jun 2023 22:16:47 +0800</pubDate>
+      
+      <guid>/posts/secondarticle/</guid>
+      <description>
+        
+          
+            #我自己去找那个主题文件，出现了一些问题，最后使用了一个课堂派内的主题文件解决了问题。课堂派的安装包内有我们需要的theme主题文件，但内部有mac电脑使用的主题文件和Windows电脑使用的主题文件在使用的时候要注意。将mac版本的文件去除，只保留windows版本的文件夹解决。
+          
+          
+        
+      </description>
+    </item>
+    
     <item>
       <title>MyFirstArticles</title>
       <link>/posts/myfirstarticles/</link>
